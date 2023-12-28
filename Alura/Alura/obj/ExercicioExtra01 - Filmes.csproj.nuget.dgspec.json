@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\Alura\\Alura\\ExercicioExtra01 - Filmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\ScreenSound\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\Alura\\Alura\\ExercicioExtra01 - Filmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-        "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\Alura\\Alura\\ExercicioExtra01 - Filmes.csproj",
+        "projectName": "ExercicioExtra01 - Filmes",
+        "projectPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\Alura\\Alura\\ExercicioExtra01 - Filmes.csproj",
         "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\ScreenSound\\ScreenSound\\obj\\",
+        "outputPath": "C:\\Users\\richa\\Desktop\\GIT\\alura-curso-csharp-orientacao-objetos-2\\Alura\\Alura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\richa\\AppData\\Roaming\\NuGet\\NuGet.Config",
