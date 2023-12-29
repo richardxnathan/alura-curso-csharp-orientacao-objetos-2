@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSound")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VideoFlix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29658923339511828ca07d075e95ead00789efc9")]
-[assembly: System.Reflection.AssemblyProductAttribute("ScreenSound")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ScreenSound")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("VideoFlix")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VideoFlix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
