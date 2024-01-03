@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = [];
@@ -39,4 +39,5 @@ internal class Banda
             Console.WriteLine($"Álbum: {album.Nome} ({album.DuracaoTotal})");
         }
     }
+
 }
