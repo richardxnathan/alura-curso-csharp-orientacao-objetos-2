@@ -17,6 +17,8 @@ internal class MenuExibirDetalhes : Menu
         {
             Banda banda = bandasRegistradas[nomeDaBanda];
 
+            Console.WriteLine(banda.Resumo);
+
             Console.WriteLine($"\nA média da banda {nomeDaBanda} é {bandasRegistradas[nomeDaBanda].Media}");
 
             Console.WriteLine("\nDiscografia");
@@ -24,7 +26,6 @@ internal class MenuExibirDetalhes : Menu
             {
                 Console.WriteLine($"{album.Nome}: {album.Media}");
             }
-
 
             Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
             Console.ReadKey();

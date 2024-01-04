@@ -27,3 +27,17 @@ C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\S
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-orientacao-objetos-2\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CopyComplete
